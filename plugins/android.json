@@ -7,27 +7,6 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-battery-status": {
-      "PACKAGE_NAME": "com.phonegap.appvisas"
-    },
-    "cordova-plugin-camera": {
-      "PACKAGE_NAME": "com.phonegap.appvisas"
-    },
-    "cordova-plugin-contacts": {
-      "PACKAGE_NAME": "com.phonegap.appvisas"
-    },
-    "cordova-plugin-device": {
-      "PACKAGE_NAME": "com.phonegap.appvisas"
-    },
-    "cordova-plugin-device-motion": {
-      "PACKAGE_NAME": "com.phonegap.appvisas"
-    },
-    "cordova-plugin-device-orientation": {
-      "PACKAGE_NAME": "com.phonegap.appvisas"
-    },
-    "cordova-plugin-dialogs": {
-      "PACKAGE_NAME": "com.phonegap.appvisas"
-    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.creaxid.appvisas"
     }
